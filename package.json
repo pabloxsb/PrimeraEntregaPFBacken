@@ -1,0 +1,14 @@
+{
+  "name": "primer-entrega-oficial",
+  "version": "1.0.0",
+  "description": "primera entrega pf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "benitez pablo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
